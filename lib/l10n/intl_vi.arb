@@ -1,0 +1,5 @@
+{
+  "message_loading": "Đang xử lý...",
+  "message_error_lost_connect": "Không thể kết nối. Vui lòng kiểm tra kết nối Internet",
+  "message_error_process_failed": "Xử lý thất bại"
+}
